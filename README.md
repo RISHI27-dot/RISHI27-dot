@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Rishikesh Donakdar. I am Second Year at Veermata Jijabai Technological University, Mumbai, Maharashtra.
+I Am Rishikesh Donadkar. I am Third Year Student at Veermata Jijabai Technological University, Mumbai, Maharashtra.
 
 <!--
 **RISHI27-dot/RISHI27-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
